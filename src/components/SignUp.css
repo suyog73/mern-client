@@ -1,0 +1,19 @@
+.signupImg {
+  margin-top: 100px;
+}
+
+.already {
+  text-align: center;
+}
+
+.alreadyText {
+  margin-bottom: 500px;
+  color:crimson;
+  font-size: large;
+  text-decoration: none;
+}
+
+.alreadyText:hover{
+  text-decoration: underline;
+  color: crimson;
+}
